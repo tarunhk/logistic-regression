@@ -51,7 +51,7 @@ The script performs the following:
 - Trains Logistic Regression model
 - Predicts class labels
 - Evaluates model using:
- 1. Confusion Matrix
+ - 1. Confusion Matrix
  2. Precision
  3. Recall
  4. ROC-AUC Score
